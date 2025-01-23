@@ -7,7 +7,7 @@ This repository will hold all my school assighnemnts
 ## **Personal Hobbies**
 Some of my Personal hobbies are that i enjoy playing computer games such as League of legends and Warframe.
 I also enjoy building computers, reading Manwha, taking my dog on a walk and trying new foods.
-![Warframe](https://i.etsystatic.com/22360457/r/il/5af45e/2199602100/il_fullxfull.2199602100_rqpr.jpg)
+![Warframe](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7LfSTWT3dxgLDjf4MA15bgnTQfMxI02Ysxg&s)
 
 
 ### **Websites I Recommend**
