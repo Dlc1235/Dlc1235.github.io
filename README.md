@@ -12,4 +12,4 @@ I also enjoy building computers, reading Manwha, taking my dog on a walk and try
 
 ### **Websites I Recommend**
 [youtube](www.youtube.com) - Youtube is a quick and easy way to find videos on almost anything you could think of. I personally use youtube just about everyday.
- [amazon](www.amazon.com) - Amazon provides a hub of thousands of items that can be purchased and quickly shipped directly to your residence. Amazon is the biggest ecommerce website in the world. 
+ [amazon](www.amazon.com) - Amazon provides a hub of thousands of items that can be purchased and quickly shipped directly to your residence. Amazon is the biggest ecommerce website in the world.
