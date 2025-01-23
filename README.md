@@ -18,7 +18,7 @@ I also enjoy building computers, reading Manwha, taking my dog on a walk and try
 #**Guessing.md**
 ```mermaid
 flowchart TD
-  Start([Start]) --> B
+  Start([Start]) --> B(Generate a number between 1 and 100)
 B --> C
 C --> D
 D --> F
