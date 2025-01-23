@@ -11,5 +11,5 @@ I also enjoy building computers, reading Manwha, taking my dog on a walk and try
 
 
 ### **Websites I Recommend**
-       - [youtube](https://www.youtube.com) - Youtube is a quick and easy way to find videos on almost anything you could think of.
-       - [amazon](https://www.amazon.com) - Amazon provides a hub of thousands of items that can be purchased and quickly shipped directly to your residence.
+       - [youtube](https://www.youtube.com/) - Youtube is a quick and easy way to find videos on almost anything you could think of.
+       - [amazon](https://https://www.amazon.com/) - Amazon provides a hub of thousands of items that can be purchased and quickly shipped directly to your residence.
