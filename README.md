@@ -19,11 +19,4 @@ I also enjoy building computers, reading Manwha, taking my dog on a walk and try
 ```mermaid
 flowchart TD
   Start([Start]) --> ([Generate a random Number from 1-100])
-
-
-
-
-
-
-
 ```
