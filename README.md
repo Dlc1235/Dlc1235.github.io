@@ -19,9 +19,12 @@ I also enjoy building computers, reading Manwha, taking my dog on a walk and try
 This is my lab 2 guessing game using mermaid to visually show how it works.
 ```mermaid
 flowchart TD
-  Start([Start]) --> B(Generate a number between 1 and 10)
-B --> C(7)
-C --> D(lower)
-D --> F(5)
-F --> G(Correct)
+  Start([Start]) --> B(Generate a random integer between 1 and 10)
+B --> C(Guess  3)
+C --> D(If integer) & E(If not integer)
+E --> B
+D --> F(Higher)
+F --> H(Guess 8)
+H --> I(Correct)
+I -->J([End])
 ```
