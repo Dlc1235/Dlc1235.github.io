@@ -15,11 +15,13 @@ I also enjoy building computers, reading Manwha, taking my dog on a walk and try
  [amazon](www.amazon.com) - Amazon provides a hub of thousands of items that can be purchased and quickly shipped directly to your residence. Amazon is the biggest ecommerce website in the world.
 
 
-#**Guessing.md**
+# **Guessing.md**
+This is my lab 2 guessing game using mermaid to visually show how it works.
 ```mermaid
 flowchart TD
-  Start([Start]) --> B(Generate a number between 1 and 100)
-B --> C
-C --> D
-D --> F
+  Start([Start]) --> B(Generate a number between 1 and 10)
+B --> C(7)
+C --> D(lower)
+D --> F(5)
+F --> G(Correct)
 ```
