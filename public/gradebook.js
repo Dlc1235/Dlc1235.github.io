@@ -26,30 +26,30 @@ xhr.send();
 
 // TODO: Populate the tabel with grade data
 function populateGradebook(data) {
-    console.log("Populating gradebook with data:", data);
-    let tableElm = document.getElementById("gradebook"); //Get the gradebook table element
-    data.forEach(function(assignment){ // For each row of data we're passed in 
-        let row =document.createElement("tr"); // create a table row element
-        let columns =[]; // Handy place to stick the columns of information
-        columns.name = document.createElement('td'); // The first column's table data will be the name
+    const tableElm = document.querySelector("#gradebook tbody");
+    tableElm.innerHTML = "";
+
+    data.forEach(function(assignment) { 
+        let row = document.createElement("tr");
+        let columns = {};
+
+        columns.name = document.createElement("td");
         columns.name.appendChild(
-            // Concatenate the full name:  "last_name, first_name"
             document.createTextNode(assignment.last_name + ", " + assignment.first_name)
         );
-        columns.grade = document.createElement('td');
+
+        columns.grade = document.createElement("td");
         columns.grade.appendChild(
             document.createTextNode(assignment.total_grade)
         );
+
         row.appendChild(columns.name);
         row.appendChild(columns.grade);
         tableElm.appendChild(row);
     });
-// This function will take the fetched grade data and populate the table 
-console.log("Populating gradebook with data:", data);
+
+    console.log("Populating gradebook with data:", data);
 }
 
-// TODO REMOVE THIS
-// Call the stubs to demostrate teh workflow
 const gradeData = fetchGradeData();
 populateGradebook(gradeData);
-//END REMOVE
